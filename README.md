@@ -106,4 +106,14 @@ npm run dev
 
 ## 📄 License
 
-MIT © [license]()
+MIT © [license](https://github.com/elyse502/cloud-file-storage/blob/main/LICENSE)
+
+<br /><hr /><br />
+
+<div align="center">
+
+**Made with ❤️**
+</div>
+
+
+
